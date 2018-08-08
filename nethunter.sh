@@ -1,6 +1,6 @@
 #!/system/bin/sh
 echo      -----------------------------------------
-echo      ------- Made By:XXH3X,Spyrotecher -------
+echo      ------- Thx To :XXH3X,Spyrotecher -------
 echo      ------- Kali NetHunter Installer --------
 echo      -------------------v6.1------------------
 echo      -----------------------------------------
